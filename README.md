@@ -1,5 +1,5 @@
 # Penguins codec demo
-Penguins Codec is an AI general audio codec proposed by Tencent Tealab with the support of Tencent AI Lab.
+Penguins Codec is an AI general audio codec proposed by Tencent Ethereal Audio Lab, with the support of Tencent AI Lab.
 
 Here are some audio samples for the corresponding papers
 
