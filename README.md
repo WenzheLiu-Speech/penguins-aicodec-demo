@@ -10,3 +10,26 @@ Penguins Codec has the following features:
 * Low complexity and storage footprint: real-time inference in the real-life RTC software such as Tencent Meet (3A and other modules are all open) for desktop and advanced mobile phones
 
 Penguins Codec has already been experienced at Tencent Meet (腾讯会议) for partial machine types since 2022.
+
+## Citations ##
+If you find this code useful in your research, please cite our work:
+```bib
+@inproceedings{xiao23c_interspeech,
+  author={Wei Xiao, Wenzhe Liu, Meng Wang, Shan Yang, Yupeng Shi, Yuyong Kang, Dan Su, Shidong Shang and Dong Yu},
+  title={{Multi-mode Neural Speech Coding Based on Deep Generative Networks}},
+  year=2023,
+  booktitle={Proc. INTERSPEECH 2023},
+  pages={819--823},
+  doi={10.21437/Interspeech.2023-1490}
+}
+```
+```bib
+@inproceedings{xiao23c_interspeech,
+  author={Wei Xiao, Wenzhe Liu, Meng Wang, Shan Yang, Yupeng Shi, Yuyong Kang, Dan Su, Shidong Shang and Dong Yu},
+  title={{Multi-mode Neural Speech Coding Based on Deep Generative Networks}},
+  year=2023,
+  booktitle={Proc. INTERSPEECH 2023},
+  pages={819--823},
+  doi={10.21437/Interspeech.2023-1490}
+}
+```
