@@ -6,7 +6,7 @@ Here are some audio samples for the corresponding papers
 Penguins Codec has the following features:
 * All kinds of audio signals: including speech, noise and music
 * High fidelity: comparable speech quality to Opus 20kbps, and outperforms other AI-Codecs such as Encodec, Lyra v1/2, Sliver and Satin
-* Relatively low bitrate: 6~10 kbps for WB and SWB
+* Relatively low bitrate: 6~10 kbps for WB and SWB for monophonic audio, >=7.5 kbps for stereo.
 * Low complexity and storage footprint: real-time inference in the real-life RTC software such as Tencent Meet (3A and other modules are all open) for desktop and advanced mobile phones
 
 News:
