@@ -10,6 +10,7 @@ Penguins Codec has the following features:
 * Low complexity and storage footprint: real-time inference in the real-life RTC software such as Tencent Meet (3A and other modules are all open) for desktop and advanced mobile phones
 
 News:
+* AVS3 p10 standardization which uses the Penguins Codec has reached the committee draft (CD) stage [news](https://www.nxrte.com/zixun/45691.html) in 88-th AVS Conference, 2024
 * Penguins Codec has been used as the reference model for AVS3 P10 [news](https://mp.weixin.qq.com/s?__biz=MzUyMTMwMDg1NA==&mid=2247502424&idx=1&sn=add537f36a6ef85c91a6f8a1bfa33b08&scene=21#wechat_redirect) in 86-th AVS Conference, 2023
 * Penguins Codec has already been experienced at QQ for partial machine types
 * Penguins Codec has already been experienced at Tencent Meet (腾讯会议) for partial machine types since 2022.
